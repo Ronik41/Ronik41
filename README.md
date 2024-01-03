@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ronik41
-- 👀 I’m interested in everything and anything computer related
+- 👀 I’m interested in Software Engineering and WebDev
 - 🌱 I’m currently studying Computer Engineering @ University of Waterloo
 
 <!---
